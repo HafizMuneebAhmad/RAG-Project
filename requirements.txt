@@ -1,0 +1,17 @@
+# requirements
+fastapi
+uvicorn
+streamlit
+langchain
+langchain-groq
+langchain-google-genai
+langchain-huggingface
+langchain-chromadb
+langchain-community
+langchain-text-splitter
+sentence-transformers
+rank-bm25
+chromadb
+pypdf
+python-dotenv
+pydantic
